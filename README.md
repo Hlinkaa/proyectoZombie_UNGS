@@ -1,14 +1,12 @@
 # proyectoZombie_UNGS
 
 ## Integrantes
----
 
 - Lucas Niglia
 - Agustina Billanueva
 - Gonzalo Hlinka
 
 ## Docentes
----
 
 - Cesar
 - Nahuel
