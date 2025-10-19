@@ -1,6 +1,18 @@
 # proyectoZombie_UNGS
 
-### Texto 1
+## Integrantes
+---
 
-*esto se ve en otro tipo de fuente*
-**esto se ve en otro tipo de fuente**
+- Lucas Niglia
+- Agustina Billanueva
+- Gonzalo Hlinka
+
+## Docentes
+---
+
+- Cesar
+- Nahuel
+
+## Descripcion
+
+El juego de los zombies consta de ...
