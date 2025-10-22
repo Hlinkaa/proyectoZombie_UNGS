@@ -100,7 +100,7 @@ public class Juego extends InterfaceJuego {
             r.dibujar(entorno);
         }
 
-        // 🔸 Dibujar y mover los zombis
+        // 🔸 Dibuja y mueve los zombis
         for (Zombies z : zombie) {
             if (z != null) {
                 z.dibujar(entorno);
@@ -113,4 +113,5 @@ public class Juego extends InterfaceJuego {
     public static void main(String[] args) {
         Juego juego = new Juego();
     }
+
 }
